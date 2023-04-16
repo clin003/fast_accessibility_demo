@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PddHelper</string>
+    <string name="myadmin_url">myAdmin网址</string>
+    <string name="save_config">保存配置</string>
+
+    <string name="accessibility_desc">PddHelper</string>
+    <string name="service_status_disable">😳无障碍服务已关闭，点击熊猫头去开启~</string>
+    <string name="service_status_enable">🤡无障碍服务已开启</string>
+    <string name="service_is_enable_tips">😲无障碍服务已开启！无需重复开启~</string>
+    <string name="open_target_app">打开目标APP</string>
+</resources>
